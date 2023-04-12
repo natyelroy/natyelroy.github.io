@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-Feel free to contact me by [email](mailto:natalie.leroyy@gmail.com).
+Feel free to contact Natalie Leroy by [email](mailto:natalie.leroyy@gmail.com).

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+    
 <div class="page-content">
   <h1>
     {{ page.title }}
@@ -9,4 +10,9 @@ layout: default
   <article>
     {{ content }}
   </article>
+    {% if page.image %}
+      <div class="featured-image">
+        <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      </div>
+    {% endif %}
 </div>
