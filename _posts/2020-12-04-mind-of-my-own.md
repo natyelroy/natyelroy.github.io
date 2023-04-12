@@ -8,6 +8,7 @@ image: mind-1.jpg
 ---
 
 Animation for Visual Arts HSC 2020.
+
 Animated by Natalie Leroy.
 Music by Christopher Leroy.
 
