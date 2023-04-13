@@ -30,9 +30,9 @@ Prize for Digital Media at Ascham School 2020.
 
 [Ascham School](https://www.ascham.nsw.edu.au/hsc-bodies-of-work-2020/)
 
-## Process
+## Natalie's Process
 
-This animation took over the course of a year to produce.
+This animation took over the course of a year to produce. I had frequent
 
 ## Where to watch
 
