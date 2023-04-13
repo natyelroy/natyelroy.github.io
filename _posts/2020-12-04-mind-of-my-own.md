@@ -32,7 +32,7 @@ Prize for Digital Media at Ascham School 2020.
 
 ## Natalie's Process
 
-This animation took over the course of a year to produce. I had frequent
+This animation took over the course of a year to produce. I received frequent feedback on my work from my art teacher and modified my work accordingly. This can be seen at the beginning and ending. I cut quite a bit from the beginning and also editted the end to have more animation components.
 
 ## Where to watch
 
